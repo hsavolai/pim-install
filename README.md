@@ -1,6 +1,6 @@
 # About
 
-Howto-guide how to install Akeneo CE PIM (Community Edition) to Linux (Ubuntu 24.04)
+Howto-guide how to install Akeneo CE PIM (Community Edition) to Linux (Ubuntu 24.04) running in podman container (the same would also apply to docker, but not tested)
 
 # Disclaimer
 
