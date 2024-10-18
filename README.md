@@ -1,3 +1,7 @@
+# About
+
+Howto-guide how to install Akeneo CE PIM (Community Edition) to Linux (Ubuntu 24.04)
+
 # Disclaimer
 
 The method presented here is **highly insecure** and should **not be used in production environments**. It lacks essential security protocols and **does not follow best practices** for system administration, containerization, or deploying Akeneo Community Edition (CE). 
