@@ -39,3 +39,5 @@ Once the installation is done (there will be a lot of warnings, but that's okay)
 http://localhost:8080/
 
 Default credentials for the demo installation are **admin**:**admin**
+
+**Note!** *This installation is completely ephemeral and it will be deleted once exiting the container with shell exit or container shutdown.*
